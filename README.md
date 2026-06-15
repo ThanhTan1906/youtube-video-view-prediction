@@ -1,5 +1,5 @@
 # YouTube Video View Prediction
-
+[![Open In Colab](https://colab.research.google.com/drive/1hIb489QZfpR8GIPnsRQ_lnw2tu9HSvfm?usp=sharing)](https://colab.research.google.com/github/ThanhTan1906/youtube-video-view-prediction/blob/main/notebooks/Data_Analysis_and_YouTube_Video_View_Prediction_Model_Development.ipynb)
 ## Project Overview
 
 This project analyzes trending YouTube video data to identify the factors associated with video performance and develop a Machine Learning model for predicting video view counts.
